@@ -4,3 +4,6 @@
 
 В файле [ОМАД- Проект.pdf](https://github.com/minhle1208/Sleep-quality-analysis/blob/main/%D0%9E%D0%9C%D0%90%D0%94-%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf) лежит исследование датасета, а в 
 [OMAD_project.ipynb](https://github.com/minhle1208/Sleep-quality-analysis/blob/main/OMAD_project.ipynb)- коды, реализованные в [ОМАД- Проект.pdf](https://github.com/minhle1208/Sleep-quality-analysis/blob/main/%D0%9E%D0%9C%D0%90%D0%94-%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf)
+
+Ссылка на датасет:
+https://www.kaggle.com/datasets/uom190346a/sleep-and-health-metrics/data
